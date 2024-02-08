@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20123447-11bf-451d-b809-51326d80ed67": {
+      "ProjectGuid": "20123447-11bf-451d-b809-51326d80ed67",
+      "DisplayName": "RocketseatAuction.API",
+      "ColorIndex": 0
+    },
+    "78a875fe-6885-493e-9fca-7a92c85ac2e5": {
+      "ProjectGuid": "78a875fe-6885-493e-9fca-7a92c85ac2e5",
+      "DisplayName": "RocketseatAuction.API",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
